@@ -7,9 +7,13 @@ It helps users generate recipes in Telugu based on the available ingredients.
 
 ✨ Features
  Generate recipes in Telugu
+ 
  Ingredient-based recipe suggestions
+ 
  Simple and user-friendly interface with navigation
+ 
  Powered by Google Gemini API
+
 ☁ Deployed on Streamlit Cloud
 🛠 Tech Stack
 Python 3.10+
