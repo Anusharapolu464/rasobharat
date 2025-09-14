@@ -6,6 +6,7 @@ It helps users generate recipes in Telugu based on the available ingredients.
 🔗 [Click here to try Rasobharat]https://a3zabek2hajlvsofxcdpsd.streamlit.app/
 
 ✨ Features
+ 
  Generate recipes in Telugu
  
  Ingredient-based recipe suggestions
@@ -15,12 +16,17 @@ It helps users generate recipes in Telugu based on the available ingredients.
  Powered by Google Gemini API
 
 ☁ Deployed on Streamlit Cloud
+
 🛠 Tech Stack
+
 Python 3.10+
+
 Streamlit
+
 Google Gemini API
+
 HTML/CSS (Streamlit styling)
-📂 Project Structure
---
+
+
 
 
