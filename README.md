@@ -19,13 +19,4 @@ HTML/CSS (Streamlit styling)
 📂 Project Structure
 --
 
-⚙ Installation & Setup (Local Development)
-Clone the repository:
-git clone https://github.com/shivanimedamoni/rasobharat.git
-   cd rasobharat
 
-creating virtual environment and activate
-python -m venv venv source venv/bin/activate # Mac/Linux venv\Scripts\activate      # Windows
-
-run the app
-streamlit run app.py
